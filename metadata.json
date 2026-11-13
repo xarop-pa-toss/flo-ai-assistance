@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant Flo",
+  "description": "A minimalist, friendly, and helpful personal AI assistant featuring the illustrated avatar Flo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
